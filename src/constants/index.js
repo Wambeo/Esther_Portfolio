@@ -3,39 +3,60 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `Passionate data scientist with expertise in both Python and R programming languages, coupled with a deep understanding of statistical analysis. Experienced in leveraging Python and R libraries to develop robust applications and solve complex problems in various domains, including e-commerce, healthcare, and finance. Proficient in statistical modeling, data visualization, and predictive analytics. Strong communicator and collaborator with a proven track record of delivering actionable insights through data-driven approaches.`;
+export const HERO_CONTENT = `In the world of data science, Esther stands out as a powerful figure who turns confusion into clear understanding. With a sharp eye and a knack for storytelling, she uses complex data like a musician conducts an orchestra, finding important insights that lead to smart choices. The Data Diva doesn’t just make sense of numbers; she turns them into stories that inspire action and help organizations move toward a better, data-driven future.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = ` I’m Esther, a Data Scientist passionate about using data to drive business strategy and deliver tangible results. I believe that with the right data and a pragmatic approach, Data Science has the power to transform decision-making and product outcomes.
+
+I’ve had the opportunity to work with private entities across various industries, honing my skills in extracting valuable insights from complex data sets. I thrive in dynamic environments where data can solve real-world challenges, especially those at the intersection of analytics and business operations. For me, it’s all about leveraging data to unlock potential and create meaningful impact.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    year: "2019 - Present",
+    role: "Data Sciencetist Tutor",
+    company: "Preply",
+    description: `Clean, preprocess, and analyze large 
+datasets using R, Python, and SQL to extract 
+actionable insights.Develop and implement machine learning 
+models for predictive analysis and 
+classification tasks.•
+ Create interactive data visualizations using 
+libraries such as Matplotlib, Seaborn, and 
+ggplot2.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
+    year: "08/2024 - 09/2024",
+    role: "Remote Extern",
+    company: "Beats by Dre",
+    description: `Research and identify macro consumer trends among GenZ.Conduct a brand and communication sentiment analysis.Analyze Beats brand positioning and compare it to competitors.Create and deliver a compelling presentation showcasing insights on how Beats can connect meaningfully with GenZ.
+    `,
+    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+  },  
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    year: "02/2021 - 01/2022",
+    role: "Data Analyst",
+    company: "Twiga Foods",
+    description: `Cleaned, transformed, and validated raw 
+data from various sources for analysis.•
+ Utilized SQL queries to extract relevant data 
+for reporting and analysis purposes.•
+ Developed and maintained automated 
+dashboards to monitor key performance 
+metrics.`,
     technologies: ["Python", "Svelte", "Three.js", "Postgres"],
   },
   {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
+    year: "08/2020 - 07/2023",
+    role: "Data Scientist",
+    company: "Fiverr",
+    description: `Collaborated with cross-functional teams to 
+develop data-driven solutions that solved 
+complex business problems. Developed predictive models using machine 
+learning algorithms in Python and R. Communicated insights and 
+recommendations to stakeholders using data 
+visualization and storytelling techniques`,
     technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-  },
+  }, 
 ];
 
 export const PROJECTS = [
@@ -70,7 +91,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "1209-00200 Nairobi, Kenya ",
+  phoneNo: "+254723836469",
+  email: "estherwambeo18@gmail.com",
 };
